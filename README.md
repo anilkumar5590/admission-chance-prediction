@@ -45,7 +45,7 @@ The dataset used in this application is for demonstration purposes only and does
 This application is a simplified example for educational purposes and may require further enhancements for production use.
 
 ## Preview
-[Checkout Here](https://anilkumar5590.github.io/text-to-audio-convereter/)
+[Checkout Here](https://admission-chance-prediction-by-anilkumar.streamlit.app/)
 
 ## 🔗 Follow us
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumarkonathala/)
